@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "E-Commerce Redesign",
+    "description": "Redesigned a fashion e-commerce platform with a modern, responsive UI, increasing conversions by 22%.",
+    "image": "https://picsum.photos/id/1015/600/400",
+    "link": "/case-studies/ecommerce-redesign"
+  },
+  {
+    "id": 2,
+    "title": "SaaS Dashboard Revamp",
+    "description": "Developed a React-powered analytics dashboard for a SaaS product, focusing on performance and UX.",
+    "image": "https://picsum.photos/id/1024/600/400",
+    "link": "/case-studies/saas-dashboard"
+  },
+  {
+    "id": 3,
+    "title": "Corporate Website Migration",
+    "description": "Migrated a corporate site from legacy PHP to WordPress with custom Gutenberg blocks for flexible content management.",
+    "image": "https://picsum.photos/id/1039/600/400",
+    "link": "/case-studies/corporate-migration"
+  },
+  {
+    "id": 4,
+    "title": "Mobile-first Landing Pages",
+    "description": "Built high-converting landing pages optimized for mobile, reducing bounce rates by 35%.",
+    "image": "https://picsum.photos/id/1047/600/400",
+    "link": "/case-studies/landing-pages"
+  }
+]
